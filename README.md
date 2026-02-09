@@ -80,6 +80,7 @@ CPU-safe loading for cloud compatibility
 
 # Repository Structure
 transfer_learning_task2/
+
 ├── app.py                  # Streamlit app
 ├── model.ipynb             # Training notebook
 ├── simplenn_cifar10.pth    # Trained model weights
@@ -101,6 +102,11 @@ Transfer learning significantly improves efficiency and performance
 
 Deployment completes the full ML lifecycle
 
-📌 Conclusion
+# Conclusion
 
 This task demonstrates the limitations of shallow neural networks and provides practical insight into why deep, pretrained models dominate modern computer vision tasks.
+
+# Author
+Arshi Mittal
+
+Arshi Mittal Induction Task – Transfer Learning & Deep Learning
