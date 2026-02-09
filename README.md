@@ -66,17 +66,6 @@ Performance highlights the importance of feature extractors in deep learning
 
 A detailed analysis is provided in analysis.txt.
 
-# Deployment
-
-The trained model was deployed using Streamlit for real-time inference.
-
-Deployment Features:
-
-Upload an image (PNG/JPG)
-
-Model predicts CIFAR-10 class
-
-CPU-safe loading for cloud compatibility
 
 # Repository Structure
 transfer_learning_task2/
